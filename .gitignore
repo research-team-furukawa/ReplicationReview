@@ -1,0 +1,18 @@
+# except this file
+!.gitignore
+
+# ignore all files in this directory
+common/
+
+# ignore all files with these extensions
+*.exe
+*.html
+*.png
+*.pdf
+*.zip
+*.do
+*.csv
+*.xlsx
+*.xls
+*.dta
+*.rds

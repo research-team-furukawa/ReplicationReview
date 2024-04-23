@@ -1,0 +1,19 @@
+# 2024-04-09
+
+- pwdの設定
+  - do-file/main.do ファイル内のpwd変数を設定
+- config.do ファイル内のパスを"clean_piaac_puf"に転記
+- clean_piaac_puf の実行
+
+
+
+- データについて
+  - データがない国が存在
+    - キプロスはコードにあるが、データには存在していない
+
+
+
+- エラーのメモ
+  - ![image-20240409155840532](C:\Users\Chishio\AppData\Roaming\Typora\typora-user-images\image-20240409155840532.png)
+
+​		![image-20240409155948825](C:\Users\Chishio\AppData\Roaming\Typora\typora-user-images\image-20240409155948825.png)

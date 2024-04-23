@@ -1,0 +1,8 @@
+# 2024-04-04
+
+- githubリポジトリのダウンロード
+- data_path の変更
+- `do-file/clean_piaac_puf ` の実行
+  - コードとデータ名が異なる
+
+![image-20240404120614048](C:\Users\Chishio\AppData\Roaming\Typora\typora-user-images\image-20240404120614048.png)
